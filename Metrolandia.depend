@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1539021080 source:c:\users\leandro\desktop\metrolandia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"metro.h"
+
+1539268590 source:c:\users\leandro\desktop\metrolandia\metro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"metro.h"
+
+1539268578 c:\users\leandro\desktop\metrolandia\metro.h
+
+1537031967 c:\users\leandro\desktop\metrolandia\metro.c
+	<stdio.h>
+	<stdlib.h>
+	"metro.h"
+
+1538566078 source:c:\devc\metrolandia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"metro.h"
+
+1538565957 c:\devc\metrolandia\metro.h
+
+1538566116 source:c:\devc\metrolandia\metro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"metro.h"
+
